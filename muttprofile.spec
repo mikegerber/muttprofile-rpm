@@ -6,7 +6,7 @@ Summary:        choose mutt profile interactively
 
 License:        GPL
 URL:            http://www.iki.fi/martti.rahkila/mutt/
-Source0:        %{name}-%{version}.tar.gz
+Source0:        http://deb.debian.org/debian/pool/main/m/%{name}/%{name}_%{version}.orig.tar.gz#/%{name}-%{version}.tar.gz
 
 %description
 muttprofile is a simple utility to choose a profile to be used with Mutt
